@@ -7,7 +7,7 @@ int main()
     file = fopen("ini.txt", "r");
     int sum = 0;
     char i[100];
-    while (fgets(i, sizeof(i), file))
+    while (fgets(i, 100, file))
         sum+=atoi(i);
     printf("%d",sum);   
     fclose(file);

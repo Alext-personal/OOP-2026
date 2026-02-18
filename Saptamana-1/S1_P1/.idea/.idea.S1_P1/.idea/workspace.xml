@@ -8,12 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36634a01-4fa8-4624-8d51-c5e8cf528a74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ini.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.S1_P1/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/S1_P1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/S1_P1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S1_P1.sln" beforeDir="false" afterPath="$PROJECT_DIR$/S1_P1.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S1_P1.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/S1_P1.vcxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x64/Debug/S1_P1.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/S1_P1.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/S1_P1.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/S1_P1.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/S1_P1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/S1_P1.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/x64/Debug/vc140.idb" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/vc140.idb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/x64/Debug/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/vc140.pdb" afterDir="false" />
     </list>
@@ -84,6 +81,7 @@
       <updated>1771397596981</updated>
       <workItem from="1771397598712" duration="862000" />
       <workItem from="1771398577665" duration="1817000" />
+      <workItem from="1771400441158" duration="373000" />
     </task>
     <servers />
   </component>
